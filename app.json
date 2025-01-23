@@ -15,8 +15,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+<<<<<<< HEAD
       },
       "package": "com.molanaaa.TransportCalculator"
+=======
+      }
+>>>>>>> eeb90403e0ce4ebef522b65f6a23eb118e8eb960
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +41,7 @@
     ],
     "experiments": {
       "typedRoutes": true
+<<<<<<< HEAD
     },
     "extra": {
       "router": {
@@ -45,6 +50,8 @@
       "eas": {
         "projectId": "03cd9f66-36e5-4716-b88d-506e5056f947"
       }
+=======
+>>>>>>> eeb90403e0ce4ebef522b65f6a23eb118e8eb960
     }
   }
 }
